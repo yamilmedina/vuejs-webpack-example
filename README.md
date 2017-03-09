@@ -1,6 +1,7 @@
-# {{ name }}
+# vuejs-webpack-example
 
-> {{ description }}
+>  Proyecto ejemplo para probar componentes de VUE 
+>  Basado en template de "vuejs-templates"
 
 ## Build Setup
 
@@ -15,4 +16,3 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
